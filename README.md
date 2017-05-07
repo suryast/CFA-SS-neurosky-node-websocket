@@ -1,6 +1,9 @@
 neurosky-node-websocket
 =======================
 
+# Expansion in this repo
+With this project, I'm expanding visualisation of Mindwave brainwave's data using Javascrip to mimick Neurosky's desktop visualizer.
+
 Using Neurosky's Mindwave Mobile EEG headset, expose live data with WebSocket and view live stream in browser with HTML &amp; Javscript.
 
 # Prerequisites
