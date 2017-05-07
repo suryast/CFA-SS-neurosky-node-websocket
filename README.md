@@ -1,9 +1,11 @@
 neurosky-node-websocket
 =======================
 
-# New feature
+## New feature
 I'm using this repo as the base for implementing liveplot from data obtained using Neurosky's headset.
 
+
+# ORIGINAL README.md below
 # Expansion in this repo
 With this project, I'm expanding visualisation of Mindwave brainwave's data using Javascrip to mimick Neurosky's desktop visualizer.
 
